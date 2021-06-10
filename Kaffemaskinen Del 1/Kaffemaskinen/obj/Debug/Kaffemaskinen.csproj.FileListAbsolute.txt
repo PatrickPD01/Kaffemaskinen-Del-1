@@ -1,0 +1,7 @@
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\bin\Debug\Kaffemaskinen.exe.config
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\bin\Debug\Kaffemaskinen.exe
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\bin\Debug\Kaffemaskinen.pdb
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\obj\Debug\Kaffemaskinen.csproj.AssemblyReference.cache
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\obj\Debug\Kaffemaskinen.csproj.CoreCompileInputs.cache
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\obj\Debug\Kaffemaskinen.exe
+C:\Users\patr7775\Desktop\Kaffemaskinen Del 1\Kaffemaskinen\obj\Debug\Kaffemaskinen.pdb
